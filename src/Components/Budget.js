@@ -3,7 +3,7 @@ import React from "react";
 const Budget = () => {
   return (
     <div className="alert alert-secondary">
-      <span>Budget : ₹ 2000</span>
+      <span>Income : ₹ 2000</span>
     </div>
   );
 };
